@@ -1,0 +1,12 @@
+1. What is Artificial Intelligence?
+    a) The simulation of human intelligence by machines.
+    b) The simulation of animal intelligence by machines.
+    c) The simulation of human emotions.
+    d) The study of human behavior.
+    (Correct answer: a)
+
+2. True or False: AI is used in robotics.
+    True
+
+3. Describe the main applications of Artificial Intelligence.
+    AI has many applications in areas such as robotics, natural language processing, and machine learning.
